@@ -1,1 +1,1 @@
-Could not have been done without [https://github.com/MultiBana/NoExpEnchantingReimagined](this project)
+Could not have been done without [this project](https://github.com/MultiBana/NoExpEnchantingReimagined)
